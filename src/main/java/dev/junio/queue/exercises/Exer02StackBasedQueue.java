@@ -89,7 +89,7 @@ public class Exer02StackBasedQueue implements Queue<Integer> {
     }
 
     /**
-     * Método auxiliar interno para transferir elementos da stack1 para a stack2
+     * Metodo auxiliar interno para transferir elementos da stack1 para a stack2
      * invertendo a ordem (transformando a lógica LIFO em FIFO).
      */
     private void shiftStacks() {
